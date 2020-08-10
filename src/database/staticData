@@ -1,0 +1,20 @@
+const proffys = [
+    {name: "Rafael Perroni", 
+    avatar:"https://scontent.fcpq5-1.fna.fbcdn.net/v/t1.0-9/37013154_2154275844600085_2968831302238732288_o.jpg?_nc_cat=105&_nc_sid=ad2b24&_nc_eui2=AeFxnfvOqDxv7dJkzXsSXM367AxmcI_c9R_sDGZwj9z1H9vtRBdEi2ylTWxVW5ut_6DNB9qNPrJNltw44mtBm4ns&_nc_ohc=E-Fs2AXpMTMAX_LhpEu&_nc_ht=scontent.fcpq5-1.fna&oh=e22220ab00e7083356aaa63615176eaf&oe=5F518E5A",
+    whatsapp:"19993990316",
+    bio:"Grande genio das artes, e eximio jogador de CS, picudo nas horas vagas", subject:"Artes",
+    cost:"50",
+    weekday: [0],
+    time_from:[3600],
+    time_to:[7200]
+},
+    {name: "Nathalia Nanya", 
+    avatar:"https://scontent.fcpq5-1.fna.fbcdn.net/v/t1.0-9/19149346_1209550505823020_1225288772625735518_n.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_eui2=AeFNcKb-5R4mfG4QAjMtj7jAki4LNxRF916SLgs3FEX3XorwR8eO-8eo9CfO2Yaw-TKas1ue8sTT3xdmZjpgZAN3&_nc_ohc=xjFrfiHT3-0AX_k8w52&_nc_ht=scontent.fcpq5-1.fna&oh=f96f1c8f5385a64377fb867299893767&oe=5F509FCD",
+    whatsapp:"19992236118",
+    bio:"Engenheira civil em formacao, provida de um belo bumbum, sobe paredes de predios nas horas vagas, e tem o sonho de com o dinheiro gganho aqui comprar uma pato chamado 'Blue'", subject:"Fisica",
+    cost:"80",
+    weekday: [2,3,4],
+    time_from:[3600],
+    time_to:[9000]
+}
+]
